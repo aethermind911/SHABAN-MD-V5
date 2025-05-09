@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "SHABAN-MD~pwBizZbT#MCNZmHI8Izo5eNaCJJMr4yQp2ptfD4SxORlXLwV7Gq4"
     },  
     
     "STICKER_NAME": {
@@ -79,20 +79,20 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🪩SEEN YOUR STATUS SHABAN-MD🪩*"
+      "value": "*🪩SEEN YOUR STATUS🪩*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "MR-SHABAN"
+      "value": "EMMANUEL"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": true,
-      "value": "923043788282"
+      "value": "2349127333875"
 
     }, 
 
